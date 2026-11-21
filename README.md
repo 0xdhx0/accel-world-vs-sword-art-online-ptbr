@@ -49,7 +49,7 @@ São mais de 28 mil textos.
   Lycoris, Fatal Bullet e Hollow Realization), sempre conferidos para fazer sentido em português.
 - **Cada personagem fala do seu jeito:** os personagens de Sword Art Online e de Accel World, com o gênero certo em cada
   fala, conferido pelo japonês.
-- **Interface:** PV/PM no lugar de HP/MP e números no padrão brasileiro.
+- **Siglas como no jogo:** HP, MP, SP... ficam como estão desenhadas nos ícones do jogo (como na versão japonesa), e o texto usa as mesmas siglas, explicadas no tutorial. Números no padrão brasileiro.
 
 ## 🚫 O que não foi traduzido (de propósito)
 
