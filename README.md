@@ -23,7 +23,7 @@ fim desta página).*
 |---|---|
 | ![Tela de título](imagens/fotos/01.jpg) | ![Cena da história](imagens/fotos/02.jpg) |
 | Tela de título | Cena da história |
-| ![Menu e mapa](imagens/fotos/03.jpg) | ![Membros do grupo](imagens/fotos/04.jpg) |
+| ![Menu e mapa](imagens/fotos/05.jpg) | ![Membros do grupo](imagens/fotos/06.jpg) |
 | Menu, mapa e objetivo | Membros do grupo e equipamento |
 
 ## 📥 Download
