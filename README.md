@@ -21,11 +21,10 @@ fim desta página).*
 
 | | |
 |---|---|
-<!-- PENDENTE: imagens/fotos/01.jpg a 04.jpg (prints a serem enviados) -->
 | ![Tela de título](imagens/fotos/01.jpg) | ![Cena da história](imagens/fotos/02.jpg) |
-| Tela de título | Cena da história com legenda em português |
-| ![Diálogo](imagens/fotos/03.jpg) | ![Menu](imagens/fotos/04.jpg) |
-| Diálogo com o grupo | Menu com itens e habilidades |
+| Tela de título | Cena da história |
+| ![Menu e mapa](imagens/fotos/03.jpg) | ![Membros do grupo](imagens/fotos/04.jpg) |
+| Menu, mapa e objetivo | Membros do grupo e equipamento |
 
 ## 📥 Download
 
